@@ -1,0 +1,12 @@
+#navStyle {
+    height: 80px;
+    width: 100%;
+    background-image:url(../image/1.jpg) ;
+    /*background-color: red;*/
+}
+#signStyle{
+    margin: 0 auto;
+    margin-top: 5%;
+    width: 20%;
+    height: 20%;
+}
